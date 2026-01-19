@@ -1,0 +1,49 @@
+
+
+ {
+    "Personal": [
+    {
+    "Name" : "Rishan Ahmed",
+"middleName": null,
+"Age"  : 21,
+"favouriteGame": "Football",
+"isRegistered" : true,
+"language" : ["Bangail" , "English" , "Spanish" , "Hindi"],
+"friends" :[
+
+    {
+        "Name" : "Sakib",
+        "Age" : 24
+    },
+
+      {
+        "Name" : "Tanveer",
+        "Age" : 25
+    }
+]
+},
+
+{
+"Name" : "Maliha Akter",
+"middleName": null,
+"Age"  : 18,
+"favouriteGame": "Football",
+"isRegistered" : true,
+"language" : ["Bangail" , "English" ,  "Hindi"],
+"friends" :[
+
+    {
+        "Name" : "Tamanna",
+        "Age" : 20
+    },
+
+      {
+        "Name" : "Nishi",
+        "Age" : 21
+    }
+]
+}
+ ]
+ }
+
+
